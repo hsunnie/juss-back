@@ -1,0 +1,11 @@
+spring:
+  output:
+    ansi:
+      enabled: always
+
+logging:
+  level:
+    sunnie.jussback: DEBUG
+
+server:
+  url: http://3.36.112.92/service
